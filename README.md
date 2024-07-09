@@ -4,14 +4,7 @@
 
 :wrench: Admins (usr/password) => webadmin/webadmin, productsadmin/productsadmin
 
-=> :information_desk_person: [Video Demo](https://youtu.be/PD_olszbGWA)
-<table>
-  <tr>
-    <td>
-    <a href="https://youtu.be/PD_olszbGWA"><img src="readme_images/youtube.webp"></a>
-    </td>
-  </tr>
-</table>
+
 
 ## :cactus: About
 
