@@ -42,9 +42,7 @@ The server is running now. Continue in browser as prompt tells.
 
 **Note:** [Master branch](https://github.com/petazeta/youronlineshop/tree/master) contains the latest implementation, [Development branch](https://github.com/petazeta/youronlineshop/tree/development) contains the last changes, and [The last stable release](https://github.com/petazeta/youronlineshop/releases/tag/v5.0) is the most suitable for use in production.
 
-## :ghost: Support
 
-For any issues, please write to: melchorherrera@gmail.com. We will gladly appreciate any bug reports.
 
 
 ## :rocket: Getting started
